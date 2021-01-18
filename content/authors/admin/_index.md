@@ -16,18 +16,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-# Interests to show in About widget
-interests:
-- Physical Reasoning 
-- Transfer Learning
-
-# Education to show in About widget
-education:
-  courses:
-  - course: BS in Computer Science
-    institution: Carnegie Mellon University
-    year: 2023
-
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -54,9 +42,12 @@ email: ""
 highlight_name: false
 ---
 
-I am an undergraduate student at CMU School of Computer Science. My research focuses on topics in robotics. I am interested in problems that arise when robots are trying to use their own knowledge to solve problems, such as knowledge-based systems (KBS) and physical reasoning. 
+### About Me 
+
+Recently, I am an undergraduate student at [CMU School of Computer Science](https://www.cs.cmu.edu). My research focuses on topics in [robotics](https://www.ri.cmu.edu). I am interested in problems that arise when robots are trying to use their own knowledge to solve problems, such as [knowledge-based systems (KBS)](https://en.wikipedia.org/wiki/Knowledge-based_systems) and [physical reasoning](https://phyre.ai). 
 
 My life goal is to give robots real intelligence and build a virtual platform for robotics. 
 
-#### Coursework 
+
+### Research  
 
