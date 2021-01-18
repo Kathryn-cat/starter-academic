@@ -49,5 +49,13 @@ Recently, I am an undergraduate student at [CMU School of Computer Science](http
 My life goal is to give robots real intelligence and build a virtual platform for robotics. 
 
 
-### Research  
+### Research 
+
+I'm interested in, but not limited to, the following topics: 
+- Knowledge-based Systems
+- Game AI 
+- Abstraction and Reasoning 
+- Transfer Learning 
+
+In the past, I was fortunate to work with [Tesca Fitzgerald](https://www.tescafitzgerald.com) in the [HARP Lab](http://harp.ri.cmu.edu) on transfer learning, supervised by [Henny Admoni](http://hennyadmoni.com). 
 
