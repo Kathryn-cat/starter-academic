@@ -61,6 +61,5 @@ In the past, I was fortunate to work with [Tesca Fitzgerald](https://www.tescafi
 
 ### Academics 
 
-B.S. in Computer Science _with a concentration in Robotics_, class of 2023 \\
-Current coursework: 
+Current coursework: [Distributed Systems](https://www.andrew.cmu.edu/course/15-440/), [Deep Learning](https://deeplearning.cs.cmu.edu/S21/index.html), [Constructive Logic](http://symbolaris.com/course/constlog.html), [Probability and Computing](https://www.cs.cmu.edu/~harchol/PnC/class.html) 
 
