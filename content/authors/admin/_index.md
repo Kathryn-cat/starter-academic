@@ -61,7 +61,6 @@ In the past, I was fortunate to work with [Tesca Fitzgerald](https://www.tescafi
 
 ### Academics 
 
-_B.S. in Computer Science with a concentration in Robotics_, class of 2023 
-
+B.S. in Computer Science _with a concentration in Robotics_, class of 2023 \\
 Current coursework: 
 
