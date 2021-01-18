@@ -233,7 +233,7 @@ plugins_js  = []
     app_id = ""
     api_key = ""
     index_name = ""
-    show_logo = false
+    show_logo = true
 
 ############################
 ## Maps
