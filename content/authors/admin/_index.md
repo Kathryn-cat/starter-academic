@@ -61,7 +61,7 @@ In the past, I was fortunate to work with [Tesca Fitzgerald](https://www.tescafi
 
 ### Academics 
 
-Carnegie Mellon University _B.S. in Computer Science with a concentration in Robotics_ class of 2023 
-QPA: 4.0/4.0 
+_B.S. in Computer Science with a concentration in Robotics_, class of 2023 
+
 Current coursework: 
 
