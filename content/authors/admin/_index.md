@@ -66,3 +66,10 @@ Current coursework: [Distributed Systems](https://www.andrew.cmu.edu/course/15-4
 ### Trivia
 Profile picture cr. [Inaba Kumori](https://www.youtube.com/channel/UCNElM45JypxqAR73RoUQ10g). \
 My music taste lies in [math rock](http://www.sigure.jp), [alternative rock](http://www.hitorie.jp), [new wave](https://sakanaction.jp), and [melodic Vocaloid](https://vocadb.net/Ar/66529). 
+
+### Contact 
+You can email me at jinqic AT andrew DOT cmu DOT edu. \
+Institutional Address:  \
+_5032 Forbes Avenue_ \
+_SMC 2447_ \
+_Pittsburgh, PA 15289_
