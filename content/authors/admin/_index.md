@@ -59,3 +59,9 @@ I'm interested in, but not limited to, the following topics:
 
 In the past, I was fortunate to work with [Tesca Fitzgerald](https://www.tescafitzgerald.com) in the [HARP Lab](http://harp.ri.cmu.edu) on transfer learning, supervised by [Henny Admoni](http://hennyadmoni.com). 
 
+### Academics 
+
+Carnegie Mellon University _B.S. in Computer Science with a concentration in Robotics_ class of 2023 
+QPA: 4.0/4.0 
+Current coursework: 
+
