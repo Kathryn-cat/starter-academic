@@ -17,7 +17,7 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
-interests:
+research interests:
 - Physical Reasoning 
 - Transfer Learning
 
@@ -27,6 +27,11 @@ education:
   - course: BS in Computer Science
     institution: Carnegie Mellon University
     year: 2023
+
+selected coursework: 
+- CS: 
+- AI: 
+- Math: 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
