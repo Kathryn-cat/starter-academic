@@ -54,6 +54,8 @@ email: ""
 highlight_name: false
 ---
 
-I am an undergraduate student at CMU School of Computer Science. My research focuses on topics in robotics. I am interested in problems that arise when robots are trying to use their own knowledge to solve problems, such as knowledge-based systems (KBS) and physical reasoning. My life goal is to give robots real intelligence and build a virtual platform for robotics. 
+I am an undergraduate student at CMU School of Computer Science. My research focuses on topics in robotics. I am interested in problems that arise when robots are trying to use their own knowledge to solve problems, such as knowledge-based systems (KBS) and physical reasoning. 
+
+My life goal is to give robots real intelligence and build a virtual platform for robotics. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
