@@ -64,5 +64,4 @@ In the past, I was fortunate to work with [Tesca Fitzgerald](https://www.tescafi
 Current coursework: [Distributed Systems](https://www.andrew.cmu.edu/course/15-440/), [Deep Learning](https://deeplearning.cs.cmu.edu/S21/index.html), [Constructive Logic](http://symbolaris.com/course/constlog.html), [PnC](https://www.cs.cmu.edu/~harchol/PnC/class.html)  _QPA: 4.0/4.0_
 
 ### Trivia
-My profile picture cr. [Inaba Kumori](https://www.youtube.com/channel/UCNElM45JypxqAR73RoUQ10g). \
-I have a very special music taste. 
+My profile picture cr. [Inaba Kumori](https://www.youtube.com/channel/UCNElM45JypxqAR73RoUQ10g). My music taste lies in [math rock](http://www.sigure.jp), [alternative rock](http://www.hitorie.jp), [new wave](https://sakanaction.jp), and [melodic Vocaloid](https://vocadb.net/Ar/66529). 
