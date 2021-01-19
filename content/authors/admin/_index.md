@@ -61,7 +61,7 @@ In the past, I was fortunate to work with [Tesca Fitzgerald](https://www.tescafi
 
 ### Academics 
 
-Current coursework: [Distributed Systems](https://www.andrew.cmu.edu/course/15-440/), [Deep Learning](https://deeplearning.cs.cmu.edu/S21/index.html), [Constructive Logic](http://symbolaris.com/course/constlog.html), [PnC](https://www.cs.cmu.edu/~harchol/PnC/class.html)  _QPA: 4.0/4.0_
+Current coursework: [Deep Learning](https://deeplearning.cs.cmu.edu/S21/index.html), [Constructive Logic](http://symbolaris.com/course/constlog.html), [Computer Vision](http://16385.courses.cs.cmu.edu/fall2020/courseinfo), [PnC](https://www.cs.cmu.edu/~harchol/PnC/class.html)  _QPA: 4.0/4.0_
 
 ### Trivia
 Profile picture cr. [Inaba Kumori](https://www.youtube.com/channel/UCNElM45JypxqAR73RoUQ10g). \
