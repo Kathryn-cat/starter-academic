@@ -51,7 +51,7 @@ Besides that, I also dream to build a virtual platform for robotics. To that end
 
 ### Research 
 
-I interested in, but not limited to, the following topics: 
+I'm interested in, but not limited to, the following topics: 
 - Computer Vision
 - Reinforcement Learning
 - Abstraction and Reasoning 
