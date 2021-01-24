@@ -55,25 +55,30 @@ I'm interested in, but not limited to, the following topics:
 - Computer Vision
 - Reinforcement Learning
 - Abstraction and Reasoning 
-- Game AI 
+- Game AI (_Unity_)
 
 I was fortunate to work with [Tesca Fitzgerald](https://www.tescafitzgerald.com) supervised by [Henny Admoni](http://hennyadmoni.com) in the [HARP Lab](http://harp.ri.cmu.edu). 
 
 ### Academics 
 
-Coursework in progress:
-> [Probability and Computing](https://www.cs.cmu.edu/~harchol/PnC/class.html) 
-> [Intro to Deep Learning (PhD)](https://deeplearning.cs.cmu.edu/S21/index.html) 
-> [Constructive Logic](http://symbolaris.com/course/constlog.html) 
-> [MultiModal Machine Learning](https://cmu-multicomp-lab.github.io/mmml-course/fall2020/) 
-_QPA: 4.0/4.0_
+Coursework in progress: _QPA: 4.0/4.0_
+> [Probability and Computing (15-259)](https://www.cs.cmu.edu/~harchol/PnC/class.html) \
+> [Intro to Deep Learning (11-785, PhD)](https://deeplearning.cs.cmu.edu/S21/index.html) \
+> [Constructive Logic (15-317)](http://symbolaris.com/course/constlog.html) \
+> [MultiModal Machine Learning (11-777, Audit)](https://cmu-multicomp-lab.github.io/mmml-course/fall2020/) 
+
+### Skills 
+The programming languages I am familiar with are Python, C/C++, C#, SML, Java, Arduino, MATLAB. \ 
+The tools that I am familiar with are OpenCV, PyTorch, Keras, Numpy, Tensorflow, ROS, Git, Mathematica. \ 
+For natural languages, I can speak English, Mandarin, and a little Japanese. 
 
 ### Trivia
-Profile picture cr. [Inaba Kumori](https://www.youtube.com/channel/UCNElM45JypxqAR73RoUQ10g). \
-My music taste lies in [math rock](http://www.sigure.jp), [alternative rock](http://www.hitorie.jp), [new wave](https://sakanaction.jp), and [melodic Vocaloid](https://vocadb.net/Ar/66529). 
+The profile picture is [Inaba Kumori](https://www.youtube.com/channel/UCNElM45JypxqAR73RoUQ10g). \
+I also enjoy J-pop and J-rock. My favorite bands are _Hitorie_, _Sakanaction_, and _Ling Tosite Sigure_. \
+I like seas, sunset, and movies. AND CATS !!!
 
 ### Contact 
-You can email me at jinqic AT andrew DOT cmu DOT edu. My pronouns are she/her/hers. 
+You can email me at **jinqic AT andrew DOT cmu DOT edu**. My pronouns are she/her/hers. 
 
 Institutional Address:  \
 _5032 Forbes Avenue_ \
