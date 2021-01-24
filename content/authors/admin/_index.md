@@ -68,8 +68,8 @@ Coursework in progress: _QPA: 4.0/4.0_
 > [MultiModal Machine Learning (11-777, Audit)](https://cmu-multicomp-lab.github.io/mmml-course/fall2020/) 
 
 ### Skills 
-The programming languages I am familiar with are Python, C/C++, C#, SML, Java, Arduino, MATLAB. \ 
-The tools that I am familiar with are OpenCV, PyTorch, Keras, Numpy, Tensorflow, ROS, Git, Mathematica. \ 
+The programming languages I am familiar with are Python, C/C++, C#, SML, Java, Arduino, MATLAB. \
+The tools that I am familiar with are OpenCV, PyTorch, Keras, Numpy, Tensorflow, ROS, Git, Mathematica. \
 For natural languages, I can speak English, Mandarin, and a little Japanese. 
 
 ### Trivia
