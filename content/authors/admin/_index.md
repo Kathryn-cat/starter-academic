@@ -62,14 +62,10 @@ I was fortunate to work with [Tesca Fitzgerald](https://www.tescafitzgerald.com)
 ### Academics 
 
 Coursework in progress:
-[su_list icon="icon: star" icon_color="#ffde0f"]
-<ul>
- 	<li>[Probability and Computing](https://www.cs.cmu.edu/~harchol/PnC/class.html)</li>
- 	<li>[Intro to Deep Learning (PhD)](https://deeplearning.cs.cmu.edu/S21/index.html)</li>
- 	<li>[Constructive Logic](http://symbolaris.com/course/constlog.html)</li>
-  <li>[MultiModal Machine Learning](https://cmu-multicomp-lab.github.io/mmml-course/fall2020/)</li>
-</ul>
-[/su_list]
+> [Probability and Computing](https://www.cs.cmu.edu/~harchol/PnC/class.html) 
+> [Intro to Deep Learning (PhD)](https://deeplearning.cs.cmu.edu/S21/index.html) 
+> [Constructive Logic](http://symbolaris.com/course/constlog.html) 
+> [MultiModal Machine Learning](https://cmu-multicomp-lab.github.io/mmml-course/fall2020/) 
 _QPA: 4.0/4.0_
 
 ### Trivia
