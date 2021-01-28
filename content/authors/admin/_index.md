@@ -44,7 +44,7 @@ highlight_name: false
 
 ### About Me 
 
-Recently, I am an undergraduate student at [CMU School of Computer Science](https://www.cs.cmu.edu). My research focuses on topics in [robotics](https://www.ri.cmu.edu). I am interested in problems that arise when robots are trying to apply their knowledge to solve real, complex problems, such as [physical reasoning](https://phyre.ai), trial-and-error learning, and transfer learning. Besides that, I am also widely interested in topics in Game AI and training intelligent agents.
+Recently, I am an undergraduate student at [CMU School of Computer Science](https://www.cs.cmu.edu). My research focuses on topics in [robotics](https://www.ri.cmu.edu). I am interested in problems that arise when robots are trying to apply their knowledge to solve real, complex problems, such as [physical reasoning](https://phyre.ai), computational creativity, trial-and-error learning, and transfer learning. Besides that, I am also widely interested in topics in Game AI and training intelligent agents.
 
 I dream to enable robots in virtual reality to interact and serve humans in the future. 
 
