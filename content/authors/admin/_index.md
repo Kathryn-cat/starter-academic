@@ -58,8 +58,6 @@ I'm interested in, but not limited to, the following topics:
 
 I am fortunate to work with [Tesca Fitzgerald](https://www.tescafitzgerald.com) in the [HARP Lab](http://harp.ri.cmu.edu), supervised by [Henny Admoni](http://hennyadmoni.com). 
 
-Recently, I also join and work with [Christopher Atkeson](http://www.cs.cmu.edu/~cga/) at CMU. 
-
 ### Academics 
 
 Coursework in progress: 
