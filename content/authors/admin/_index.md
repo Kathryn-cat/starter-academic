@@ -61,10 +61,9 @@ I am fortunate to work with [Tesca Fitzgerald](https://www.tescafitzgerald.com) 
 ### Academics 
 
 Coursework in progress: 
-> [Probability and Computing (15-259)](https://www.cs.cmu.edu/~harchol/PnC/class.html) \
 > [Intro to Deep Learning (11-785, PhD)](https://deeplearning.cs.cmu.edu/S21/index.html) \
-> [Constructive Logic (15-317)](http://symbolaris.com/course/constlog.html) \
-> [MultiModal Machine Learning (11-777, Audit)](https://cmu-multicomp-lab.github.io/mmml-course/fall2020/) 
+> [Distributed Systems (15-440)](https://www.andrew.cmu.edu/course/15-440/) \
+> [Probability and Computing (15-259)](https://www.cs.cmu.edu/~harchol/PnC/class.html) \
 
 _Cumulative QPA: 4.0/4.0_
 
