@@ -63,7 +63,7 @@ I am fortunate to work with [Tesca Fitzgerald](https://www.tescafitzgerald.com) 
 Coursework in progress: 
 > [Intro to Deep Learning (11-785, PhD)](https://deeplearning.cs.cmu.edu/S21/index.html) \
 > [Distributed Systems (15-440)](https://www.andrew.cmu.edu/course/15-440/) \
-> [Probability and Computing (15-259)](https://www.cs.cmu.edu/~harchol/PnC/class.html) \
+> [Probability and Computing (15-259)](https://www.cs.cmu.edu/~harchol/PnC/class.html)
 
 _Cumulative QPA: 4.0/4.0_
 
