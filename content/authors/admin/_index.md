@@ -56,25 +56,9 @@ I'm interested in, but not limited to, the following topics:
 - Computer Vision 
 - Game AI 
 
-I am fortunate to work with [Tesca Fitzgerald](https://www.tescafitzgerald.com) in the [HARP Lab](http://harp.ri.cmu.edu), supervised by [Henny Admoni](http://hennyadmoni.com). 
-
-### Academics 
-
-Coursework in progress: 
-> [Intro to Deep Learning (11-785, PhD)](https://deeplearning.cs.cmu.edu/S21/index.html) \
-> [Distributed Systems (15-440)](https://www.andrew.cmu.edu/course/15-440/) \
-> [Probability and Computing (15-259)](https://www.cs.cmu.edu/~harchol/PnC/class.html)
-
-_Cumulative QPA: 4.0/4.0_
-
-### Skills 
-The programming languages I am familiar with are Python, C/C++, C#, SML, Java, Arduino, MATLAB. \
-The tools that I am familiar with are OpenCV, PyTorch, Keras, Numpy, Tensorflow, ROS, Git, Mathematica. \
-For natural languages, I can speak English, Mandarin, and a little Japanese. 
-
 ### Trivia
-My cute profile picture is actually [Inaba Kumori](https://www.youtube.com/channel/UCNElM45JypxqAR73RoUQ10g). \
-I enjoy all kinds of J-pop and J-rock. In particular, my favorite bands are _Sakanaction_ and _Ling Tosite Sigure_. \
+My cute profile picture is credit to [Inaba Kumori](https://www.youtube.com/channel/UCNElM45JypxqAR73RoUQ10g). \
+My favorite j-rock band is _Ling Tosite Sigure_. \
 I like seas, sunset, and movies. AND CATS !!!
 
 ### Contact 
